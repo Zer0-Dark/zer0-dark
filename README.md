@@ -50,13 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0-Dark&theme=tokyonight" />
 </p>
 
----
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/Zer0-Dark/Zer0-Dark/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Let's Connect
 
