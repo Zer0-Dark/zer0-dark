@@ -60,6 +60,9 @@
 
 ---
 
-> “The quieter you become the more you can hear.” – Cory House
+> “The quieter you become the more you can hear.” – 
+
+
+![pixel-cat](https://github.com/user-attachments/assets/29e4935b-f0ea-4a0f-9ae9-b904cad3e328)
 
 ---
