@@ -10,6 +10,8 @@
 🎨 Focused on animation, performance, and seamless user interfaces  
 🛠️ Stack: React, Redux, Tailwind CSS, Framer Motion, D3.js, Next.js, Firebase, and more
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Dark&layout=compact&theme=radical)
 ---
 
 ### 🚀 Tech Stack & Tools
