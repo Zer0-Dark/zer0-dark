@@ -40,8 +40,6 @@
   A sleek animated page that improved engagement  
   _React, TypeScript, Tailwind CSS, Framer Motion_
 
-- 🗺️ **Interactive Map App (Confidential)**  
-  Built with D3.js + Power BI API for advanced analytics
 
 ---
 
