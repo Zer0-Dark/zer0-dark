@@ -89,11 +89,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
-
-<h3 align="center">☕ Support Me</h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Zer0-Dark">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-  </a>
-</p>
